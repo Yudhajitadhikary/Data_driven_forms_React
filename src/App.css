@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.MuiSvgIcon-root {
+  font-size: 3.5rem !important;
+}
+.Mui-error {
+  font-size: 14px !important;
+}
+.MuiStepConnector-alternativeLabel {
+  top: 17px !important;
+}
+.MuiButton-containedPrimary {
+  margin-right: 119px !important;
+}
+.MuiButton-contained {
+  font-size: 16px !important;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.MuiStepLabel-label.MuiStepLabel-alternativeLabel {
+  font-size: 18px !important;
+}
+.MuiFormLabel-root {
+  font-size: 2rem !important;
+}
+
+.MuiTypography-h5 {
+  font-size: 2.5rem !important;
+}
+.MuiTypography-body1 {
+  font-size: 2rem !important;
+}
+.MuiInputLabel-formControl {
+  font-size: 20px !important;
+}
+
+.MuiFormControl-fullWidth {
+  width: 1401px !important;
+}
+.MuiInputBase-input {
+  font-size: 25px !important;
+  font: italic !important;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
